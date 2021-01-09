@@ -2,14 +2,16 @@ import { useEffect } from 'react';
 import './App.css';
 import Counter from './Counter';
 import Hello from './Hello';
-import NavBar from './navbar';
+import Home from './Home';
+import NavBar from './Navbar';
 
 function App() {
 
   return (
-    <div>
+    <>
       <NavBar/>
-    </div>
+      <Home/>
+    </>
   );
 }
 
