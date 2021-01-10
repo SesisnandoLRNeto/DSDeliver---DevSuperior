@@ -1,6 +1,6 @@
-import Counter from './Counter';
-import Hello from './Hello';
-import NavBar from './Navbar';
+// import Counter from './Counter';
+// import Hello from './Hello';
+// import NavBar from './Navbar';
 
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css';

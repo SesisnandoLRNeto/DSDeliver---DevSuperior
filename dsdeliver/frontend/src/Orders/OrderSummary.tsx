@@ -1,4 +1,3 @@
-import { PromptProps } from "react-router-dom"
 import { formatPrice } from "./helpers"
 
 type Props = {
